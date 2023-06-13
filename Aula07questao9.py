@@ -1,0 +1,12 @@
+tab = int(input('Qual o valor para a tabuada '))
+
+print('01 x {} = {}'.format(tab, 1 * tab))
+print('02 x {} = {}'.format(tab, 2 * tab))
+print('03 x {} = {}'.format(tab, 3 * tab))
+print('04 x {} = {}'.format(tab, 4 * tab))
+print('05 x {} = {}'.format(tab, 5 * tab))
+print('06 x {} = {}'.format(tab, 6 * tab))
+print('07 x {} = {}'.format(tab, 7 * tab))
+print('08 x {} = {}'.format(tab, 8 * tab))
+print('09 x {} = {}'.format(tab, 9 * tab))
+print('10 x {} = {}'.format(tab, 10 * tab))
